@@ -5,4 +5,6 @@ $B = Get-Content C:\patch\b.txt
 
 Compare-Object -referenceObject $a -differenceObject $b
 
-text
+te
+
+Mer text
